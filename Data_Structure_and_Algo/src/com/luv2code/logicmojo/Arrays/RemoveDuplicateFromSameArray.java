@@ -1,4 +1,4 @@
-package com.luv2code.logicmojo;
+package com.luv2code.logicmojo.Arrays;
 
 /**
  * Given a sorted array, remove the duplicates in place such that each element appear only once and return the new length.

@@ -1,4 +1,4 @@
-package com.luv2code.logicmojo;
+package com.luv2code.logicmojo.Arrays;
 
 import java.util.Arrays;
 

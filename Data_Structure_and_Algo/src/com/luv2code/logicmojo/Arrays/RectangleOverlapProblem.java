@@ -1,4 +1,4 @@
-package com.luv2code.logicmojo;
+package com.luv2code.logicmojo.Arrays;
 
 /**
  * Rectangle that is represented as a list [x1, y1, x2, y2],

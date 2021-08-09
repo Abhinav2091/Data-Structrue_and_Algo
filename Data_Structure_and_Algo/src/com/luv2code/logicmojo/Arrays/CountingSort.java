@@ -1,4 +1,4 @@
-package com.luv2code.logicmojo;
+package com.luv2code.logicmojo.Arrays;
 
 /**
  * we have array which contain only 0s,1s and 2s now we need to sort this array

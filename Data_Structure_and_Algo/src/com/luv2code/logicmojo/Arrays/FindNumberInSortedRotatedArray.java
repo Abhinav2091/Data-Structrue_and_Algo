@@ -1,4 +1,4 @@
-package com.luv2code.logicmojo;
+package com.luv2code.logicmojo.Arrays;
 
 /**
  * We rotate an ascending order sorted array at some point unknown to user.
